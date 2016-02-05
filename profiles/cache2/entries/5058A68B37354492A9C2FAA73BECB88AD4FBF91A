@@ -1,0 +1,209 @@
+<li class="panel" data-addonguid="jid0-hjBdm7jJii7llLkqacvGnd3gHge@jetpack">
+  <div id="monthly" class="feature promo">
+    <hgroup>
+      <h2>Mozilla — Дополнение месяца!</h2>
+    </hgroup>
+    <div class="wrap">
+      <div>
+                                  <div class="blurb">
+          <h3><a href="/ru/firefox/addon/proxy-switcher/?src=hp-btn-promo" target="_self">Proxy Switcher</a></h3>
+          <p>Access all of Firefox’s proxy settings right from the toolbar panel.</p>
+          
+<div class="install-shell">
+<div class="install "
+       data-addon="654096"
+  data-icon="https://addons.cdn.mozilla.net/user-media/addon_icons/654/654096-32.png?modified=1442676580"
+  data-developers="/ru/firefox/addon/proxy-switcher/developers"
+  data-versions="/ru/firefox/addon/654096/versions/"
+  data-name="Proxy Switcher"
+  
+  data-min="29.0"
+  data-max="46.0"
+  data-is-compatible="true"
+  data-is-compatible-app="true"
+  data-compat-overrides="[]"
+>
+  <p class="install-button">
+                            <a class="button  download "
+  data-hash="sha256:ff3ad4cecd8b28640a47ea4b5d6dd8182158cdcf8f0b589773b24e205be1c3b2"
+      href="/firefox/downloads/latest/654096/addon-654096-latest.xpi?src=hp-btn-promo"
+  >
+      <b></b>
+    <span>
+      Загрузить сейчас
+          </span>
+  </a>
+      </p>
+</div> 
+
+      <div class="d2c-reasons-popup popup">
+      <p>Это дополнение не совместимо с вашей версией Firefox так как:</p>
+      <ul></ul>
+    </div>
+  <p>
+    <a id="downloadAnyway" hidden="true">Всё равно загрузить</a>
+</p>
+</div> 
+          <a href="/ru/firefox/addon/proxy-switcher/?src=hp-btn-promo" target="_self" class="button details-link">
+            Подробнее</a>
+        </div>
+                  <a href="/ru/firefox/addon/proxy-switcher/?src=hp-btn-promo" target="_self" class="thumb">
+            <img src="https://addons.cdn.mozilla.net/user-media/addon_icons/654/654096-64.png?modified=1442676580" alt="">
+          </a>
+              </div>
+    </div>
+  </div>
+</li><li class="panel">
+  <div id="starter" class="feature promo-collection promo">
+    <hgroup>
+              <h2>Впервые в дополнениях?</h2>
+                    <h3>Не беспокойтесь, начните с этих трёх дополнений.</h3>
+          </hgroup>
+    <ul class="addons">
+              <li data-guid="s3google@translator" data-ctx="home"
+            >
+                    <a href="/ru/firefox/addon/s3google-translator/?src=hp-dl-promo" target="_self">
+                                    <img src="https://addons.cdn.mozilla.net/user-media/addon_icons/285/285546-32.png?modified=1451810172" width="32" height="32" alt="">
+              <h3 class="htruncate">S3.Google Переводчик</h3>
+              <p class="desc vtruncate">S3.Google Переводчик - перевод выделенного текста, любой введеной фразы или полностью всего web-сайта с любого языка на любой язык
+
+Новая функция: Изучение языка!</p>
+                      </a>
+        </li>
+              <li data-guid="{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}" data-ctx="home"
+            >
+                    <a href="/ru/firefox/addon/adblock-plus/?src=hp-dl-promo" target="_self">
+                                    <img src="https://addons.cdn.mozilla.net/user-media/addon_icons/1/1865-32.png?modified=1453220416" width="32" height="32" alt="">
+              <h3 class="htruncate">Adblock Plus</h3>
+              <p class="desc vtruncate">Надоела реклама? Тормозит интернет? Слишком много баннеров? Установи Adblock Plus, чтобы вернуть себе контроль над интернетом и видеть лишь то, что хочется.</p>
+                      </a>
+        </li>
+              <li data-guid="copyplaintext@teo.pl" data-ctx="home"
+            >
+                    <a href="/ru/firefox/addon/copy-plain-text-2/?src=hp-dl-promo" target="_self">
+                                    <img src="https://addons.cdn.mozilla.net/user-media/addon_icons/353/353318-32.png?modified=1408527620" width="32" height="32" alt="">
+              <h3 class="htruncate">Copy Plain Text 2</h3>
+              <p class="desc vtruncate">Копирует выделенный текст без форматирования.</p>
+                      </a>
+        </li>
+          </ul>
+  </div>
+</li><li class="panel">
+  <div id="valentines" class="feature promo-collection promo">
+    <hgroup>
+              <h2>В воздухе царит любовь</h2>
+                    <h3>Добавьте в ваш Firefox немного романтики</h3>
+          </hgroup>
+    <ul class="addons">
+              <li data-guid="" data-ctx="home"
+            class="persona-feature">
+                    <a href="/ru/firefox/addon/swish-of-hearts-by-madonna/?src=hp-dl-promo" target="_self">
+                                    <h3 class="htruncate">Swish of Hearts by MaDonna</h3>
+              <div class="persona persona-large">
+  <div class="persona-inner">
+    <div class="persona-preview">
+                    <div             style="background-image:url('https://addons.cdn.mozilla.net/user-media/addons/680557/preview.png?1453144815')"
+      data-browsertheme="{&#34;category&#34;:&#34;\u041f\u0440\u0430\u0437\u0434\u043d\u0438\u043a\u0438&#34;,&#34;iconURL&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/680557/icon.png?1453144815&#34;,&#34;headerURL&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/680557/header.png?1453144815&#34;,&#34;name&#34;:&#34;Swish of Hearts by MaDonna&#34;,&#34;author&#34;:&#34;MaDonna&#34;,&#34;footer&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/680557/footer.png?1453144815&#34;,&#34;previewURL&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/680557/preview.png?1453144815&#34;,&#34;updateURL&#34;:&#34;https://versioncheck.addons.mozilla.org/ru/themes/update-check/680557&#34;,&#34;accentcolor&#34;:&#34;#ffffff&#34;,&#34;header&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/680557/header.png?1453144815&#34;,&#34;version&#34;:&#34;1.0&#34;,&#34;footerURL&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/680557/footer.png?1453144815&#34;,&#34;detailURL&#34;:&#34;https://addons.mozilla.org/ru/firefox/addon/swish-of-hearts-by-madonna/&#34;,&#34;textcolor&#34;:&#34;#050505&#34;,&#34;id&#34;:&#34;680557&#34;,&#34;description&#34;:&#34;My wallpaper to match is at: &lt;a rel=\&#34;nofollow\&#34; href=\&#34;http://outgoing.mozilla.org/v1/6d1a4238149e2b8472963646ed62fcadeea067986bb16d0757789cd1b42d3dba/http%3A//abstract.desktopnexus.com/wallpaper/2069532/\&#34;&gt;http://abstract.desktopnexus.com/wallpaper/2069532/&lt;/a&gt;&#34;}">
+                                      </div>
+
+      
+          </div>
+  </div>
+</div>
+                      </a>
+        </li>
+              <li data-guid="" data-ctx="home"
+            class="persona-feature">
+                    <a href="/ru/firefox/addon/roses-and-hearts-by-madonna/?src=hp-dl-promo" target="_self">
+                                    <h3 class="htruncate">Roses and Hearts by MaDonna</h3>
+              <div class="persona persona-large">
+  <div class="persona-inner">
+    <div class="persona-preview">
+                    <div             style="background-image:url('https://addons.cdn.mozilla.net/user-media/addons/582022/preview.png?1422984028')"
+      data-browsertheme="{&#34;category&#34;:&#34;None&#34;,&#34;iconURL&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/582022/icon.png?1422984028&#34;,&#34;headerURL&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/582022/header.png?1422984028&#34;,&#34;name&#34;:&#34;Roses and Hearts by MaDonna&#34;,&#34;author&#34;:&#34;MaDonna&#34;,&#34;footer&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/582022/footer.png?1422984028&#34;,&#34;previewURL&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/582022/preview.png?1422984028&#34;,&#34;updateURL&#34;:&#34;https://versioncheck.addons.mozilla.org/ru/themes/update-check/582022&#34;,&#34;accentcolor&#34;:&#34;#ffffff&#34;,&#34;header&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/582022/header.png?1422984028&#34;,&#34;version&#34;:&#34;1.0&#34;,&#34;footerURL&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/582022/footer.png?1422984028&#34;,&#34;detailURL&#34;:&#34;https://addons.mozilla.org/ru/firefox/addon/roses-and-hearts-by-madonna/&#34;,&#34;textcolor&#34;:&#34;#840908&#34;,&#34;id&#34;:&#34;582022&#34;,&#34;description&#34;:&#34;Designed by MaDonna\n\nMy wallpaper to match is at: &lt;a rel=\&#34;nofollow\&#34; href=\&#34;http://outgoing.mozilla.org/v1/91a6d433883e46bf2daf748e1ba2019c3fd222e01de1385fcba29698c5d83744/http%3A//nature.desktopnexus.com/wallpaper/1928222/\&#34;&gt;http://nature.desktopnexus.com/wallpaper/1928222/&lt;/a&gt;&#34;}">
+                                      </div>
+
+      
+          </div>
+  </div>
+</div>
+                      </a>
+        </li>
+              <li data-guid="" data-ctx="home"
+            class="persona-feature">
+                    <a href="/ru/firefox/addon/valentine-s-day-04-water/?src=hp-dl-promo" target="_self">
+                                    <h3 class="htruncate">Valentine&#39;s Day-04 Water</h3>
+              <div class="persona persona-large">
+  <div class="persona-inner">
+    <div class="persona-preview">
+                    <div             style="background-image:url('https://addons.cdn.mozilla.net/user-media/addons/582678/preview.png?1423149631')"
+      data-browsertheme="{&#34;category&#34;:&#34;None&#34;,&#34;iconURL&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/582678/icon.png?1423149631&#34;,&#34;headerURL&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/582678/header.png?1423149631&#34;,&#34;name&#34;:&#34;Valentine&#39;s Day-04 Water&#34;,&#34;author&#34;:&#34;dearya&#34;,&#34;footer&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/582678/footer.png?1423149631&#34;,&#34;previewURL&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/582678/preview.png?1423149631&#34;,&#34;updateURL&#34;:&#34;https://versioncheck.addons.mozilla.org/ru/themes/update-check/582678&#34;,&#34;accentcolor&#34;:&#34;#04121c&#34;,&#34;header&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/582678/header.png?1423149631&#34;,&#34;version&#34;:&#34;1.0&#34;,&#34;footerURL&#34;:&#34;https://addons.cdn.mozilla.net/user-media/addons/582678/footer.png?1423149631&#34;,&#34;detailURL&#34;:&#34;https://addons.mozilla.org/ru/firefox/addon/valentine-s-day-04-water/&#34;,&#34;textcolor&#34;:&#34;#fafafa&#34;,&#34;id&#34;:&#34;582678&#34;,&#34;description&#34;:&#34;None&#34;}">
+                                      </div>
+
+      
+          </div>
+  </div>
+</div>
+                      </a>
+        </li>
+          </ul>
+  </div>
+</li><li class="panel">
+  <div id="" class="feature promo-collection promo promo-purple">
+    <hgroup>
+              <h2>Лёгкий Шоппинг</h2>
+                    <h3>Экономьте деньги на покупке ваших любимых вещей из комфорта вашего браузера.</h3>
+          </hgroup>
+    <ul class="addons">
+              <li data-guid="extension@ciuvo.com" data-ctx="home"
+            >
+                    <a href="/ru/firefox/addon/ciuvo/?src=hp-dl-promo" target="_self">
+                                    <img src="https://addons.cdn.mozilla.net/user-media/addon_icons/249/249334-32.png?modified=1453998014" width="32" height="32" alt="">
+              <h3 class="htruncate">Ciuvo - проверка цен в вашем браузере</h3>
+              <p class="desc vtruncate">Ciuvo находит лучшее предложение на просматриваемые товары. Сравнение цен, купоны, отзывы покупателей и видеоматериалы о товарах прямо в вашем веб-браузере.</p>
+                      </a>
+        </li>
+              <li data-guid="getbooly@boo.ly" data-ctx="home"
+            >
+                    <a href="/ru/firefox/addon/booly-shopping-price-compar/?src=hp-dl-promo" target="_self">
+                                    <img src="https://addons.cdn.mozilla.net/user-media/addon_icons/244/244876-32.png?modified=1407173975" width="32" height="32" alt="">
+              <h3 class="htruncate">Boo.ly Shopping - Coupons, Best Prices, &amp; Offers</h3>
+              <p class="desc vtruncate">Want to save money shopping online? 
+
+Automatically get the best prices, coupons &amp;amp; promo codes.
+
+✔ Uses HTTPS
+✔ Automatically get the best prices &amp;amp; coupon codes
+✔ Works on search engines
+✔ Product information
+
+Safe · Discreet · 100% Free</p>
+                      </a>
+        </li>
+              <li data-guid="superfish@superfish.com" data-ctx="home"
+            >
+                    <a href="/ru/firefox/addon/windowshopper-automatic-price-/?src=hp-dl-promo" target="_self">
+                                    <img src="https://addons.cdn.mozilla.net/static/img/addon-icons/shopping-32.png" width="32" height="32" alt="">
+              <h3 class="htruncate">WindowShopper - Discover Visually</h3>
+              <p class="desc vtruncate">Use visual search to find shoes, jewelry, home decor or any other product! Click on products images in any site to also compare prices, find deals, and get coupons. 
+
+200 Million products; from U.S., CA, UK, FR, DE, AU
+
+by SimilarProducts.net</p>
+                      </a>
+        </li>
+          </ul>
+  </div>
+</li>�&-%�      V�w*V�w+<j�       M:https://addons.mozilla.org/ru/firefox/i/promos?version=43.0&platform=windows security-info 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 request-method GET request-User-Agent Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0 response-head HTTP/1.1 200 OK
+content-security-policy-report-only: script-src 'self' https://addons.mozilla.org https://www.paypalobjects.com https://apis.google.com https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://ssl.google-analytics.com https://addons.cdn.mozilla.net; default-src 'none'; img-src 'self' data: blob: https://www.paypal.com https://ssl.google-analytics.com https://addons.cdn.mozilla.net https://ssl.gstatic.com/ https://sentry.prod.mozaws.net; style-src 'self' 'unsafe-inline' https://addons.cdn.mozilla.net; frame-src 'self' https://ic.paypal.com https://paypal.com https://www.google.com/recaptcha/ https://www.paypal.com; object-src 'none'; connect-src 'self' https://sentry.prod.mozaws.net; font-src 'self' https://addons.cdn.mozilla.net; report-uri /__cspreport__
+Content-Type: text/html; charset=utf-8
+Date: Fri, 05 Feb 2016 10:19:27 GMT
+Server: nginx
+Strict-Transport-Security: max-age=31536000
+Vary: X-Mobile, User-Agent
+x-backend-server: ip-172-31-40-143
+x-content-type-options: nosniff
+x-frame-options: DENY
+X-XSS-Protection: 1; mode=block
+Content-Length: 13832
+ uncompressed-len 0   6

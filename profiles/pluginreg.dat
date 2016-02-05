@@ -1,0 +1,144 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.17|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+npGoogleUpdate3.dll|$
+C:\Program Files (x86)\Google\Update\1.3.29.5\npGoogleUpdate3.dll|$
+1.3.29.5|$
+1454473049455|0|0|0|$
+Google Update|$
+Google Update|$
+2
+0|application/x-vnd.google.update3webcontrol.3|||$
+1|application/x-vnd.google.oneclickctrl.9|||$
+npnv3dv.dll|$
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\npnv3dv.dll|$
+7.17.12.5942|$
+1282026846000|0|0|0|$
+NVIDIA 3D Vision plugin for Mozilla browsers|$
+NVIDIA 3D Vision|$
+3
+0|image/jps|JPEG-based stereo image|jps|$
+1|image/pns|PNG-based stereo image|pns|$
+2|image/mpo|Multi-Picture Format image|mpo|$
+npnv3dvstreaming.dll|$
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\npnv3dvstreaming.dll|$
+7.17.12.5942|$
+1282026848000|0|0|0|$
+NVIDIA 3D Vision Streaming plugin for Mozilla browsers|$
+NVIDIA 3D VISION|$
+1
+0|application/mozilla-3dv-streaming-plugin|npnv3dvstreaming|rts|$
+NPWLPG.dll|$
+C:\Program Files (x86)\Windows Live\Photo Gallery\NPWLPG.dll|$
+14.0.8051.1204|$
+1228409332000|0|0|0|$
+NPWLPG|$
+Windows Live® Photo Gallery|$
+2
+0|application/x-wlpg3-detect|Windows Live® Photo Gallery|wlpg|$
+1|application/x-wlpg-detect|Windows Live® Photo Gallery|wlpg|$
+NPAUTHZ.DLL|$
+C:\PROGRA~2\MICROS~1\Office14\NPAUTHZ.DLL|$
+14.0.4730.1010|$
+1263051738000|0|0|0|$
+Office Authorization plug-in for NPAPI browsers|$
+Microsoft Office 2010|$
+1
+0|application/x-msoffice14|14.0.4730.1010|*|$
+NPSPWRAP.DLL|$
+C:\PROGRA~2\MICROS~1\Office14\NPSPWRAP.DLL|$
+14.0.4761.1000|$
+1269440558000|0|0|0|$
+The plug-in allows you to open and edit files using Microsoft Office applications|$
+Microsoft Office 2010|$
+1
+0|application/x-sharepoint|SharePoint Plug-in for Firefox||$
+npctrl.dll|$
+C:\Program Files (x86)\Microsoft Silverlight\5.1.41212.0\npctrl.dll|$
+5.1.41212.0|$
+1449853948000|0|0|0|$
+5.1.41212.0|$
+Silverlight Plug-In|$
+2
+0|application/x-silverlight|npctrl|scr|$
+1|application/x-silverlight-2|||$
+npjp2.dll|$
+C:\Program Files (x86)\Java\jre1.8.0_65\bin\plugin2\npjp2.dll|$
+11.65.2.17|$
+1446005540888|0|0|0|$
+Next Generation Java Plug-in 11.65.2 for Mozilla browsers|$
+Java(TM) Platform SE 8 U65|$
+40
+0|application/x-java-applet|Java Applet||$
+1|application/x-java-bean|JavaBeans||$
+2|application/x-java-vm|||$
+3|application/x-java-applet;version=1.1.1|||$
+4|application/x-java-bean;version=1.1.1|||$
+5|application/x-java-applet;version=1.1|||$
+6|application/x-java-bean;version=1.1|||$
+7|application/x-java-applet;version=1.2|||$
+8|application/x-java-bean;version=1.2|||$
+9|application/x-java-applet;version=1.1.3|||$
+10|application/x-java-bean;version=1.1.3|||$
+11|application/x-java-applet;version=1.1.2|||$
+12|application/x-java-bean;version=1.1.2|||$
+13|application/x-java-applet;version=1.3|||$
+14|application/x-java-bean;version=1.3|||$
+15|application/x-java-applet;version=1.2.2|||$
+16|application/x-java-bean;version=1.2.2|||$
+17|application/x-java-applet;version=1.2.1|||$
+18|application/x-java-bean;version=1.2.1|||$
+19|application/x-java-applet;version=1.3.1|||$
+20|application/x-java-bean;version=1.3.1|||$
+21|application/x-java-applet;version=1.4|||$
+22|application/x-java-bean;version=1.4|||$
+23|application/x-java-applet;version=1.4.1|||$
+24|application/x-java-bean;version=1.4.1|||$
+25|application/x-java-applet;version=1.4.2|||$
+26|application/x-java-bean;version=1.4.2|||$
+27|application/x-java-applet;version=1.5|||$
+28|application/x-java-bean;version=1.5|||$
+29|application/x-java-applet;version=1.6|||$
+30|application/x-java-bean;version=1.6|||$
+31|application/x-java-applet;version=1.7|||$
+32|application/x-java-bean;version=1.7|||$
+33|application/x-java-applet;version=1.8|||$
+34|application/x-java-bean;version=1.8|||$
+35|application/x-java-applet;jpi-version=1.8.0_65|||$
+36|application/x-java-bean;jpi-version=1.8.0_65|||$
+37|application/x-java-vm-npruntime|||$
+38|application/x-java-applet;deploy=11.65.2|||$
+39|application/x-java-applet;javafx=8.0.65|||$
+npdeployJava1.dll|$
+C:\Program Files (x86)\Java\jre1.8.0_65\bin\dtplugin\npdeployJava1.dll|$
+11.65.2.17|$
+1446005540602|0|0|0|$
+NPRuntime Script Plug-in Library for Java(TM) Deploy|$
+Java Deployment Toolkit 8.0.650.17|$
+1
+0|application/java-deployment-toolkit|||$
+npitunes.dll|$
+C:\Program Files (x86)\iTunes\Mozilla Plugins\npitunes.dll|$
+1.0.1.1|$
+1444308822000|0|0|0|$
+iTunes Detector Plug-in|$
+iTunes Application Detector|$
+1
+0|application/itunes-plugin|This plug-in detects the presence of iTunes when opening iTunes Store URLs in a web page with Firefox.||$
+NPSWF32_20_0_0_286.dll|$
+C:\Windows\SysWOW64\Macromed\Flash\NPSWF32_20_0_0_286.dll|$
+20.0.0.286|$
+1453267451394|0|0|0|$
+Shockwave Flash 20.0 r0|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+
+[INVALID]
+C:\Program Files (x86)\Microsoft Silverlight\5.1.41212.0\npctrlui.dll|$
+1449853948000|$
